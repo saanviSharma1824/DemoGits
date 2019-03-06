@@ -12,7 +12,7 @@ class demoViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("Demo")
         // Do any additional setup after loading the view.
     }
     

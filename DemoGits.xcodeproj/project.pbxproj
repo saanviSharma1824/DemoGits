@@ -12,6 +12,7 @@
 		0427EA91222F94AB0019702A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0427EA8F222F94AB0019702A /* Main.storyboard */; };
 		0427EA93222F94AE0019702A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0427EA92222F94AE0019702A /* Assets.xcassets */; };
 		0427EA96222F94AE0019702A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0427EA94222F94AE0019702A /* LaunchScreen.storyboard */; };
+		0427EA9E222FA41D0019702A /* downloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427EA9D222FA41D0019702A /* downloadViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0427EA92222F94AE0019702A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0427EA95222F94AE0019702A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0427EA97222F94AE0019702A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0427EA9D222FA41D0019702A /* downloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = downloadViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0427EA92222F94AE0019702A /* Assets.xcassets */,
 				0427EA94222F94AE0019702A /* LaunchScreen.storyboard */,
 				0427EA97222F94AE0019702A /* Info.plist */,
+				0427EA9D222FA41D0019702A /* downloadViewController.swift */,
 			);
 			path = DemoGits;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0427EA8E222F94AB0019702A /* ViewController.swift in Sources */,
+				0427EA9E222FA41D0019702A /* downloadViewController.swift in Sources */,
 				0427EA8C222F94AB0019702A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

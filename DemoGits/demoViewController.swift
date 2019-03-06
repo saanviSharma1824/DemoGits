@@ -8,7 +8,7 @@
 
 import UIKit
 
-class demoViewController: UIViewController {
+class downloadViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

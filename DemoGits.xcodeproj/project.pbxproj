@@ -13,6 +13,7 @@
 		0427EA93222F94AE0019702A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0427EA92222F94AE0019702A /* Assets.xcassets */; };
 		0427EA96222F94AE0019702A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0427EA94222F94AE0019702A /* LaunchScreen.storyboard */; };
 		0427EA9E222FA41D0019702A /* downloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427EA9D222FA41D0019702A /* downloadViewController.swift */; };
+		0427EAA6222FB1FC0019702A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427EAA5222FB1FC0019702A /* FirstViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0427EA95222F94AE0019702A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0427EA97222F94AE0019702A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0427EA9D222FA41D0019702A /* downloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = downloadViewController.swift; sourceTree = "<group>"; };
+		0427EAA5222FB1FC0019702A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0427EA94222F94AE0019702A /* LaunchScreen.storyboard */,
 				0427EA97222F94AE0019702A /* Info.plist */,
 				0427EA9D222FA41D0019702A /* downloadViewController.swift */,
+				0427EAA5222FB1FC0019702A /* FirstViewController.swift */,
 			);
 			path = DemoGits;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				0427EA8E222F94AB0019702A /* ViewController.swift in Sources */,
 				0427EA9E222FA41D0019702A /* downloadViewController.swift in Sources */,
 				0427EA8C222F94AB0019702A /* AppDelegate.swift in Sources */,
+				0427EAA6222FB1FC0019702A /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
